@@ -12,7 +12,7 @@ Since South Africa is divided into over 4,000 districts, Zindi has aggregated th
 
 https://zindi.africa/competitions/womxn-in-big-data-south-africa-female-headed-households-in-south-africa 
 
-## EDA: Highlighted Visualizations
+## Variable Correlations
 
 <img width="775" alt="Screen Shot 2020-12-18 at 10 55 46 PM" src="https://user-images.githubusercontent.com/68027568/102681079-2bb98880-4184-11eb-99e7-bb0e8589a903.png">
 
